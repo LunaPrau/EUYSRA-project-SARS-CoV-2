@@ -1,0 +1,1089 @@
+Ligand_Name,Site_Number,With_Or_Without_Water,RMSD Value,WOW,dG,Mean
+Amentoflavone,Site1,WW,0,With water,-8.8,0
+Amentoflavone,Site1,WW,0.58718884,Without water,-9.5,0
+Amentoflavone,Site1,WW,0.08450437,Reapeat with water,-8.8,0
+Amentoflavone,Site1,WW,0.5925057,Repeat without water,-9.5,-9.15
+Amentoflavone,Site1,WOW,0,With water,-8.8,0
+Amentoflavone,Site1,WOW,0.57535315,Without water,-9,0
+Amentoflavone,Site1,WOW,0.3340681,Reapeat with water,-8.8,0
+Amentoflavone,Site1,WOW,0.5812968,Repeat without water,-9.5,-9.025
+Amentoflavone,Site2,WW,0,With water,-10.9,0
+Amentoflavone,Site2,WW,0.59676445,Without water,-11.3,0
+Amentoflavone,Site2,WW,0.04621444,Reapeat with water,-10.9,0
+Amentoflavone,Site2,WW,0.5991815,Repeat without water,-11,-11.025
+Amentoflavone,Site2,WOW,0,With water,-10.9,0
+Amentoflavone,Site2,WOW,0.5894492,Without water,-11,0
+Amentoflavone,Site2,WOW,0.20971157,Reapeat with water,-10.9,0
+Amentoflavone,Site2,WOW,0.57895297,Repeat without water,-11,-10.95
+Amentoflavone,Site3d,WW,0,With water,-9.9,0
+Amentoflavone,Site3d,WW,0.5773792,Without water,-9.7,0
+Amentoflavone,Site3d,WW,0.058938775,Reapeat with water,-9.8,0
+Amentoflavone,Site3d,WW,0.5779454,Repeat without water,-9.7,-9.775
+Amentoflavone,Site3d,WOW,0,With water,-9.9,0
+Amentoflavone,Site3d,WOW,0.5851455,Without water,-9.7,0
+Amentoflavone,Site3d,WOW,0.08406703,Reapeat with water,-9.9,0
+Amentoflavone,Site3d,WOW,0.5818874,Repeat without water,-9.5,-9.75
+Amentoflavone,Site3m,WW,0,With water,-7.6,0
+Amentoflavone,Site3m,WW,0.589369,Without water,-7.8,0
+Amentoflavone,Site3m,WW,0.045195643,Reapeat with water,-7.6,0
+Amentoflavone,Site3m,WW,0.559468,Repeat without water,-7.8,-7.7
+Amentoflavone,Site3m,WOW,0,With water,-7.6,0
+Amentoflavone,Site3m,WOW,0.5584152,Without water,-7.8,0
+Amentoflavone,Site3m,WOW,0.041866597,Reapeat with water,-7.5,0
+Amentoflavone,Site3m,WOW,0.5514178,Repeat without water,-7.8,-7.675
+Apigenin,Site1,WW,0.000143986,With water,-7.4,0
+Apigenin,Site1,WW,0.050363924,Without water,-7,0
+Apigenin,Site1,WW,0.046588853,Reapeat with water,-7.4,0
+Apigenin,Site1,WW,0.10791741,Repeat without water,-7,-7.2
+Apigenin,Site1,WOW,0.000249392,With water,-7.4,0
+Apigenin,Site1,WOW,0.054075044,Without water,-7,0
+Apigenin,Site1,WOW,0.036684588,Reapeat with water,-7.4,0
+Apigenin,Site1,WOW,0.050565843,Repeat without water,-7,-7.2
+Apigenin,Site2,WW,0,With water,-7.9,0
+Apigenin,Site2,WW,0.03167731,Without water,-7.8,0
+Apigenin,Site2,WW,0.035898525,Reapeat with water,-7.9,0
+Apigenin,Site2,WW,0.10590923,Repeat without water,-7.8,-7.85
+Apigenin,Site2,WOW,0,With water,-7.9,0
+Apigenin,Site2,WOW,0.10843181,Without water,-7.8,0
+Apigenin,Site2,WOW,0.048262905,Reapeat with water,-7.9,0
+Apigenin,Site2,WOW,0.044157803,Repeat without water,-7.8,-7.85
+Apigenin,Site3d,WW,0,With water,-7.2,0
+Apigenin,Site3d,WW,0.10515673,Without water,-7.1,0
+Apigenin,Site3d,WW,0.041705597,Reapeat with water,-7.2,0
+Apigenin,Site3d,WW,0.11660596,Repeat without water,-7.1,-7.15
+Apigenin,Site3d,WOW,0.000143986,With water,-7.2,0
+Apigenin,Site3d,WOW,0.108270794,Without water,-7.1,0
+Apigenin,Site3d,WOW,0.042003296,Reapeat with water,-7.2,0
+Apigenin,Site3d,WOW,0.10649876,Repeat without water,-7.1,-7.15
+Apigenin,Site3m,WW,0,With water,-7,0
+Apigenin,Site3m,WW,0.051381726,Without water,-6.9,0
+Apigenin,Site3m,WW,0.03774913,Reapeat with water,-7,0
+Apigenin,Site3m,WW,0.045956668,Repeat without water,-7,-6.975
+Apigenin,Site3m,WOW,0,With water,-7,0
+Apigenin,Site3m,WOW,0.04343854,Without water,-7,0
+Apigenin,Site3m,WOW,0.04450108,Reapeat with water,-7,0
+Apigenin,Site3m,WOW,0.054604035,Repeat without water,-7,-7
+Baricitinib,Site1,With_Water,0.00018794,With water,-7.4,0
+Baricitinib,Site1,With_Water,0.13938184,Without water,-7.4,0
+Baricitinib,Site1,With_Water,0.13991451,Reapeat with water,-7.4,0
+Baricitinib,Site1,With_Water,0.2547915,Repeat without water,-7.4,-7.4
+Baricitinib,Site1,Without_Water,0,With water,-7.4,0
+Baricitinib,Site1,Without_Water,0.16225605,Without water,-7.4,0
+Baricitinib,Site1,Without_Water,0.16188294,Reapeat with water,-7.4,0
+Baricitinib,Site1,Without_Water,0.17304553,Repeat without water,-7.4,-7.4
+Baricitinib,Site2,With_Water,0,With water,-7.4,0
+Baricitinib,Site2,With_Water,0.19287547,Without water,-6.8,0
+Baricitinib,Site2,With_Water,0.07930225,Reapeat with water,-7.3,0
+Baricitinib,Site2,With_Water,0.08045064,Repeat without water,-6.8,-7.075
+Baricitinib,Site2,Without_Water,0.00018794,With water,-7.3,0
+Baricitinib,Site2,Without_Water,0.07461413,Without water,-6.8,0
+Baricitinib,Site2,Without_Water,0.07418091,Reapeat with water,-7.4,0
+Baricitinib,Site2,Without_Water,0.011682525,Repeat without water,-6.8,-7.075
+Baricitinib,Site3d,With_Water,0,With water,-8.3,0
+Baricitinib,Site3d,With_Water,0.088324584,Without water,-8.1,0
+Baricitinib,Site3d,With_Water,0.10754445,Reapeat with water,-8.2,0
+Baricitinib,Site3d,With_Water,0.11337163,Repeat without water,-8.1,-8.175
+Baricitinib,Site3d,Without_Water,0,With water,-8.3,0
+Baricitinib,Site3d,Without_Water,0.031355504,Without water,-8.1,0
+Baricitinib,Site3d,Without_Water,0.21884568,Reapeat with water,-8.3,0
+Baricitinib,Site3d,Without_Water,0.177623,Repeat without water,-8.1,-8.2
+Baricitinib,Site3m,With_Water,0,With water,-7.6,0
+Baricitinib,Site3m,With_Water,0.19925593,Without water,-7.5,0
+Baricitinib,Site3m,With_Water,0.011783375,Reapeat with water,-7.6,0
+Baricitinib,Site3m,With_Water,0.004717245,Repeat without water,-7.5,-7.55
+Baricitinib,Site3m,Without_Water,0,With water,-7.6,0
+Baricitinib,Site3m,Without_Water,0.21257894,Without water,-7.5,0
+Baricitinib,Site3m,Without_Water,0.19683592,Reapeat with water,-7.6,0
+Baricitinib,Site3m,Without_Water,0.21872376,Repeat without water,-7.5,-7.55
+Berchemol,Site1,With_Water,0,With water,-8.8,0
+Berchemol,Site1,With_Water,0.051079944,Without water,-7.6,0
+Berchemol,Site1,With_Water,0.047550704,Reapeat with water,-8.8,0
+Berchemol,Site1,With_Water,0.057691358,Repeat without water,-8.8,-8.5
+Berchemol,Site1,Without_Water,0,With water,-8.8,0
+Berchemol,Site1,Without_Water,0.03235993,Without water,-7.6,0
+Berchemol,Site1,Without_Water,0.17065309,Reapeat with water,-8.3,0
+Berchemol,Site1,Without_Water,0.05966036,Repeat without water,-8.8,-8.375
+Berchemol,Site2,With_Water,0,With water,-9.6,0
+Berchemol,Site2,With_Water,0.037650906,Without water,-9.5,0
+Berchemol,Site2,With_Water,0.20677388,Reapeat with water,-9.6,0
+Berchemol,Site2,With_Water,0.19603156,Repeat without water,-9.3,-9.5
+Berchemol,Site2,Without_Water,0,With water,-9.6,0
+Berchemol,Site2,Without_Water,0.040131923,Without water,-9.5,0
+Berchemol,Site2,Without_Water,0.19371504,Reapeat with water,-9.6,0
+Berchemol,Site2,Without_Water,0.056404684,Repeat without water,-9.5,-9.55
+Berchemol,Site3d,With_Water,0,With water,-8.3,0
+Berchemol,Site3d,With_Water,0.18874748,Without water,-8.2,0
+Berchemol,Site3d,With_Water,0.037276458,Reapeat with water,-8.3,0
+Berchemol,Site3d,With_Water,0.055543453,Repeat without water,-8.2,-8.25
+Berchemol,Site3d,Without_Water,0,With water,-8.3,0
+Berchemol,Site3d,Without_Water,0.047608573,Without water,-8.1,0
+Berchemol,Site3d,Without_Water,0.034057964,Reapeat with water,-8.3,0
+Berchemol,Site3d,Without_Water,0.04556748,Repeat without water,-8.2,-8.225
+Berchemol,Site3m,With_Water,0.000175396,With water,-7,0
+Berchemol,Site3m,With_Water,0.054986514,Without water,-7.5,0
+Berchemol,Site3m,With_Water,0.04389663,Reapeat with water,-7.3,0
+Berchemol,Site3m,With_Water,0.03918713,Repeat without water,-7.5,-7.325
+Berchemol,Site3m,Without_Water,0.000175396,With water,-7.3,0
+Berchemol,Site3m,Without_Water,0.044036575,Without water,-7.5,0
+Berchemol,Site3m,Without_Water,0.049583063,Reapeat with water,-7.3,0
+Berchemol,Site3m,Without_Water,0.0568166,Repeat without water,-7.4,-7.375
+Beta,Site1,Without_Water,0,With water,-7.2,0
+Beta,Site1,Without_Water,0.120828,Without water,-6.8,0
+Beta,Site1,Without_Water,0.075760596,Reapeat with water,-7,0
+Beta,Site1,Without_Water,0.06860852,Repeat without water,-6.8,-6.95
+Beta,Site2,With_Water,0,With water,-7.9,0
+Beta,Site2,With_Water,0.06463028,Without water,-6.8,0
+Beta,Site2,With_Water,0.055205174,Reapeat with water,-6.5,0
+Beta,Site2,With_Water,0.053452667,Repeat without water,-6.6,-6.95
+Beta,Site2,Without_Water,0.000143986,With water,-8.3,0
+Beta,Site2,Without_Water,0.08956664,Without water,-8.2,0
+Beta,Site2,Without_Water,0.04758785,Reapeat with water,-8.5,0
+Beta,Site2,Without_Water,0.098977245,Repeat without water,-8.4,-8.35
+Beta,Site3d,With_Water,0,With water,-8.3,0
+Beta,Site3d,With_Water,0.043623805,Without water,-8.1,0
+Beta,Site3d,With_Water,0.0973819,Reapeat with water,-8.5,0
+Beta,Site3d,With_Water,0.047939867,Repeat without water,-8.3,-8.3
+Beta,Site3d,Without_Water,0,With water,-7,0
+Beta,Site3d,Without_Water,0.09695817,Without water,-6.7,0
+Beta,Site3d,Without_Water,0.09268837,Reapeat with water,-7.1,0
+Beta,Site3d,Without_Water,0.054927133,Repeat without water,-7.3,-7.025
+Beta,Site3m,With_Water,0,With water,-7.1,0
+Beta,Site3m,With_Water,0.048384964,Without water,-6.6,0
+Beta,Site3m,With_Water,0.035495467,Reapeat with water,-7.3,0
+Beta,Site3m,With_Water,0.10381222,Repeat without water,-7,-7
+Beta,Site3m,Without_Water,0,With water,-5.7,0
+Beta,Site3m,Without_Water,0.036235943,Without water,-5.5,0
+Beta,Site3m,Without_Water,0.04006805,Reapeat with water,-5.7,0
+Beta,Site3m,Without_Water,0.05909826,Repeat without water,-5.4,-5.575
+Camostat,Site1,With_Water,0.000167479,With water,-5.8,0
+Camostat,Site1,With_Water,0.091131404,Without water,-5.7,0
+Camostat,Site1,With_Water,0.1377444,Reapeat with water,-5.7,0
+Camostat,Site1,With_Water,0.04333147,Repeat without water,-5.6,-5.7
+Camostat,Site1,Without_Water,0,With water,-7.4,0
+Camostat,Site1,Without_Water,0.2792197,Without water,-7.5,0
+Camostat,Site1,Without_Water,0.051966578,Reapeat with water,-7.4,0
+Camostat,Site1,Without_Water,0.21230483,Repeat without water,-7.4,-7.425
+Camostat,Site2,With_Water,0.000410238,With water,-7.1,0
+Camostat,Site2,With_Water,0.32073456,Without water,-7.4,0
+Camostat,Site2,With_Water,0.22955072,Reapeat with water,-7.4,0
+Camostat,Site2,With_Water,0.22525758,Repeat without water,-7.4,-7.325
+Camostat,Site2,Without_Water,0,With water,-8,0
+Camostat,Site2,Without_Water,0.2635579,Without water,-7.8,0
+Camostat,Site2,Without_Water,0.26474217,Reapeat with water,-8,0
+Camostat,Site2,Without_Water,0.23488092,Repeat without water,-7.8,-7.9
+Camostat,Site3d,With_Water,0.000236851,With water,-8,0
+Camostat,Site3d,With_Water,0.24550892,Without water,-7.9,0
+Camostat,Site3d,With_Water,0.10534049,Reapeat with water,-7.9,0
+Camostat,Site3d,With_Water,0.21435675,Repeat without water,-7.9,-7.925
+Camostat,Site3d,Without_Water,0,With water,-7.6,0
+Camostat,Site3d,Without_Water,0.2725477,Without water,-7.2,0
+Camostat,Site3d,Without_Water,0.2808394,Reapeat with water,-7.6,0
+Camostat,Site3d,Without_Water,0.310152,Repeat without water,-7.2,-7.4
+Camostat,Site3m,With_Water,0.000334958,With water,-7.4,0
+Camostat,Site3m,With_Water,0.03245121,Without water,-7.2,0
+Camostat,Site3m,With_Water,0.008523352,Reapeat with water,-7.5,0
+Camostat,Site3m,With_Water,0.054057103,Repeat without water,-7.2,-7.325
+Camostat,Site3m,Without_Water,0.000236851,With water,-6.5,0
+Camostat,Site3m,Without_Water,0.016254965,Without water,-6.4,0
+Camostat,Site3m,Without_Water,0.015173272,Reapeat with water,-6.4,0
+Camostat,Site3m,Without_Water,0.012311706,Repeat without water,-6.4,-6.425
+Chrysin,Site1,With_Water,0.000150687,With water,-6.4,0
+Chrysin,Site1,With_Water,0.114487216,Without water,-6.4,0
+Chrysin,Site1,With_Water,0.039742786,Reapeat with water,-6.4,0
+Chrysin,Site1,With_Water,0.039371397,Repeat without water,-6.4,-6.4
+Chrysin,Site1,Without_Water,0,With water,-7.7,0
+Chrysin,Site1,Without_Water,0.034282506,Without water,-7.6,0
+Chrysin,Site1,Without_Water,0.032363318,Reapeat with water,-7.5,0
+Chrysin,Site1,Without_Water,0.05233457,Repeat without water,-7.6,-7.6
+Chrysin,Site2,With_Water,0,With water,-7.8,0
+Chrysin,Site2,With_Water,0.045364756,Without water,-7.3,0
+Chrysin,Site2,With_Water,0.042867698,Reapeat with water,-8,0
+Chrysin,Site2,With_Water,0.035182077,Repeat without water,-7.2,-7.575
+Chrysin,Site2,Without_Water,0,With water,-8.2,0
+Chrysin,Site2,Without_Water,0.011546981,Without water,-8,0
+Chrysin,Site2,Without_Water,0.048294377,Reapeat with water,-8.1,0
+Chrysin,Site2,Without_Water,0.107986145,Repeat without water,-8.1,-8.1
+Chrysin,Site3d,With_Water,0,With water,-8.3,0
+Chrysin,Site3d,With_Water,0.10791063,Without water,-8.2,0
+Chrysin,Site3d,With_Water,0.109731495,Reapeat with water,-8.4,0
+Chrysin,Site3d,With_Water,0.11137696,Repeat without water,-8,-8.225
+Chrysin,Site3d,Without_Water,0,With water,-7.2,0
+Chrysin,Site3d,Without_Water,0.045637477,Without water,-7.7,0
+Chrysin,Site3d,Without_Water,0.042243417,Reapeat with water,-7.5,0
+Chrysin,Site3d,Without_Water,0.049954683,Repeat without water,-7.5,-7.475
+Chrysin,Site3m,With_Water,0,With water,-7.7,0
+Chrysin,Site3m,With_Water,0.024870181,Without water,-7.1,0
+Chrysin,Site3m,With_Water,0.030895585,Reapeat with water,-7.6,0
+Chrysin,Site3m,With_Water,0.040274855,Repeat without water,-7.5,-7.475
+Chrysin,Site3m,Without_Water,0,With water,-7.6,0
+Chrysin,Site3m,Without_Water,0.032833144,Without water,-7.6,0
+Chrysin,Site3m,Without_Water,0.042630002,Reapeat with water,-7.6,0
+Chrysin,Site3m,Without_Water,0.004278021,Repeat without water,-7.6,-7.6
+Curcumin,Site1,With_Water,0,With water,-7.6,0
+Curcumin,Site1,With_Water,0.19117512,Without water,-7.6,0
+Curcumin,Site1,With_Water,0.22344744,Reapeat with water,-7.5,0
+Curcumin,Site1,With_Water,0.17118204,Repeat without water,-7.5,-7.55
+Curcumin,Site1,Without_Water,0,With water,-6.9,0
+Curcumin,Site1,Without_Water,0.22894917,Without water,-6.6,0
+Curcumin,Site1,Without_Water,0.058891855,Reapeat with water,-6.9,0
+Curcumin,Site1,Without_Water,0.20791285,Repeat without water,-6.6,-6.75
+Curcumin,Site2,With_Water,0,With water,-6.9,0
+Curcumin,Site2,With_Water,0.14076185,Without water,-6.6,0
+Curcumin,Site2,With_Water,0.20598686,Reapeat with water,-6.9,0
+Curcumin,Site2,With_Water,0.2046627,Repeat without water,-6.6,-6.75
+Curcumin,Site2,Without_Water,0,With water,-7.8,0
+Curcumin,Site2,Without_Water,0.17122419,Without water,-7.6,0
+Curcumin,Site2,Without_Water,0.071211755,Reapeat with water,-7.8,0
+Curcumin,Site2,Without_Water,0.17117482,Repeat without water,-7.6,-7.7
+Curcumin,Site3d,With_Water,0,With water,-7.8,0
+Curcumin,Site3d,With_Water,0.090196274,Without water,-7.6,0
+Curcumin,Site3d,With_Water,0.1546189,Reapeat with water,-7.8,0
+Curcumin,Site3d,With_Water,0.2593725,Repeat without water,-7.7,-7.725
+Curcumin,Site3d,Without_Water,0,With water,-7.5,0
+Curcumin,Site3d,Without_Water,0.26822734,Without water,-7.4,0
+Curcumin,Site3d,Without_Water,0.18834792,Reapeat with water,-7.4,0
+Curcumin,Site3d,Without_Water,0.19390921,Repeat without water,-7.4,-7.425
+Curcumin,Site3m,With_Water,0,With water,-7.5,0
+Curcumin,Site3m,With_Water,0.23224396,Without water,-7.4,0
+Curcumin,Site3m,With_Water,0.16288972,Reapeat with water,-7.4,0
+Curcumin,Site3m,With_Water,0.059942607,Repeat without water,-7.4,-7.425
+Curcumin,Site3m,Without_Water,0,With water,-7.3,0
+Curcumin,Site3m,Without_Water,0.11281203,Without water,-7.3,0
+Curcumin,Site3m,Without_Water,0.18560961,Reapeat with water,-7.3,0
+Curcumin,Site3m,Without_Water,0.19728829,Repeat without water,-7.3,-7.3
+DAR_DIR,Site1,With_Water,0.000197295,With water,-7.3,0
+DAR_DIR,Site1,With_Water,0.3391503,Without water,-7.3,0
+DAR_DIR,Site1,With_Water,0.55360055,Reapeat with water,-7.3,0
+DAR_DIR,Site1,With_Water,0.43476623,Repeat without water,-7.3,-7.3
+DAR_DIR,Site1,Without_Water,0,With water,-6.1,0
+DAR_DIR,Site1,Without_Water,0.3998534,Without water,-6.4,0
+DAR_DIR,Site1,Without_Water,0.36305627,Reapeat with water,-6.7,0
+DAR_DIR,Site1,Without_Water,0.38212267,Repeat without water,-6.6,-6.45
+DAR_DIR,Site2,With_Water,0,With water,-6.8,0
+DAR_DIR,Site2,With_Water,0.3192264,Without water,-6.7,0
+DAR_DIR,Site2,With_Water,0.39629304,Reapeat with water,-6.7,0
+DAR_DIR,Site2,With_Water,0.34919393,Repeat without water,-6.5,-6.675
+DAR_DIR,Site2,Without_Water,0.000197295,With water,-7.2,0
+DAR_DIR,Site2,Without_Water,0.3601452,Without water,-7,0
+DAR_DIR,Site2,Without_Water,0.3286738,Reapeat with water,-7.5,0
+DAR_DIR,Site2,Without_Water,0.2501506,Repeat without water,-7.5,-7.3
+DAR_DIR,Site3d,With_Water,0,With water,-7.6,0
+DAR_DIR,Site3d,With_Water,0.16351506,Without water,-7.5,0
+DAR_DIR,Site3d,With_Water,0.27964482,Reapeat with water,-7.4,0
+DAR_DIR,Site3d,With_Water,0.24240752,Repeat without water,-7.6,-7.525
+DAR_DIR,Site3d,Without_Water,0,With water,-7.3,0
+DAR_DIR,Site3d,Without_Water,0.29890034,Without water,-6.1,0
+DAR_DIR,Site3d,Without_Water,0.41582668,Reapeat with water,-7.1,0
+DAR_DIR,Site3d,Without_Water,0.12768947,Repeat without water,-6.8,-6.825
+DAR_DIR,Site3m,With_Water,0,With water,-7.1,0
+DAR_DIR,Site3m,With_Water,0.3937687,Without water,-6.1,0
+DAR_DIR,Site3m,With_Water,0.08382247,Reapeat with water,-7,0
+DAR_DIR,Site3m,With_Water,0.39316973,Repeat without water,-6.4,-6.65
+DAR_DIR,Site3m,Without_Water,0,With water,-6.3,0
+DAR_DIR,Site3m,Without_Water,0.02730101,Without water,-6,0
+DAR_DIR,Site3m,Without_Water,0.03992296,Reapeat with water,-6.1,0
+DAR_DIR,Site3m,Without_Water,0.03620465,Repeat without water,-6.1,-6.125
+Diammonium,Site1,Without_Water,0.000173998,With water,-6,0
+Diammonium,Site1,Without_Water,0.04613414,Without water,-6,0
+Diammonium,Site1,Without_Water,0.050252054,Reapeat with water,-6.3,0
+Diammonium,Site1,Without_Water,0.053226676,Repeat without water,-5.7,-6
+Diammonium,Site2,With_Water,0.000173998,With water,-6.6,0
+Diammonium,Site2,With_Water,0.03890796,With water,-9.6,0
+Diammonium,Site2,With_Water,0.04019735,With water,-8.3,0
+Diammonium,Site2,With_Water,0.041925624,With water,-5.5,-7.5
+Diammonium,Site2,Without_Water,0,Without water,-6.8,0
+Diammonium,Site2,Without_Water,0.039050873,Without water,-9.4,0
+Diammonium,Site2,Without_Water,0.047168277,Without water,-7.7,0
+Diammonium,Site2,Without_Water,0.040611718,Without water,-5.5,-7.35
+Diammonium,Site3d,With_Water,0,Reapeat with water,-6.5,0
+Diammonium,Site3d,With_Water,0.01670292,Reapeat with water,-9.6,0
+Diammonium,Site3d,With_Water,0.039953336,Reapeat with water,-7.6,0
+Diammonium,Site3d,With_Water,0.03891574,Reapeat with water,-5.7,-7.35
+Diammonium,Site3d,Without_Water,0.000173998,Repeat without water,-7,0
+Diammonium,Site3d,Without_Water,0.03361319,Repeat without water,-9.3,0
+Diammonium,Site3d,Without_Water,0.05038833,Repeat without water,-8.1,0
+Diammonium,Site3d,Without_Water,0.032489244,Repeat without water,-5.5,-7.475
+Diammonium,Site3m,With_Water,0,With water,-7,0
+Diammonium,Site3m,With_Water,0.04889102,With water,-9.6,0
+Diammonium,Site3m,With_Water,0.04377914,With water,-8,0
+Diammonium,Site3m,With_Water,0.039417792,With water,-5.7,-7.575
+Diammonium,Site3m,Without_Water,0,Without water,-7.4,0
+Diammonium,Site3m,Without_Water,0.030767685,Without water,-9.1,0
+Diammonium,Site3m,Without_Water,0.044811886,Without water,-7.9,0
+Diammonium,Site3m,Without_Water,0.038950346,Without water,-5.4,-7.45
+Fisetin,Site1,With_Water,0.000195313,Reapeat with water,-7.7,0
+Fisetin,Site1,With_Water,0.051588017,Reapeat with water,-9.6,0
+Fisetin,Site1,With_Water,0.44590357,Reapeat with water,-7.2,0
+Fisetin,Site1,With_Water,0.44209355,Reapeat with water,-5.7,-7.55
+Fisetin,Site1,Without_Water,0,Repeat without water,-6.8,0
+Fisetin,Site1,Without_Water,0.041893963,Repeat without water,-9.3,0
+Fisetin,Site1,Without_Water,0.45116472,Repeat without water,-7.5,0
+Fisetin,Site1,Without_Water,0.45030802,Repeat without water,-5.4,-7.25
+Fisetin,Site2,With_Water,0,With water,-11.2,0
+Fisetin,Site2,With_Water,0.029849604,Without water,-10.3,0
+Fisetin,Site2,With_Water,0.44589442,Reapeat with water,-11.3,0
+Fisetin,Site2,With_Water,0.4466695,Repeat without water,-11.8,-11.15
+Fisetin,Site2,Without_Water,0,With water,-11.3,0
+Fisetin,Site2,Without_Water,0.14702317,Without water,-10.3,0
+Fisetin,Site2,Without_Water,0.44913638,Reapeat with water,-11.3,0
+Fisetin,Site2,Without_Water,0.44877067,Repeat without water,-11.8,-11.175
+Fisetin,Site3d,With_Water,0,With water,-13.7,0
+Fisetin,Site3d,With_Water,0.16727789,Without water,-13.3,0
+Fisetin,Site3d,With_Water,0.4453574,Reapeat with water,-13.7,0
+Fisetin,Site3d,With_Water,0.43017644,Repeat without water,-13.3,-13.5
+Fisetin,Site3d,Without_Water,0,With water,-13.7,0
+Fisetin,Site3d,Without_Water,0.05505769,Without water,-13.3,0
+Fisetin,Site3d,Without_Water,0.4484813,Reapeat with water,-13.7,0
+Fisetin,Site3d,Without_Water,0.44953305,Repeat without water,-13.3,-13.5
+Fisetin,Site3m,Without_Water,0,With water,-12.4,0
+Fisetin,Site3m,Without_Water,0.05504591,Without water,-12.3,0
+Fisetin,Site3m,Without_Water,0.44860768,Reapeat with water,-12.4,0
+Fisetin,Site3m,Without_Water,0.456666,Repeat without water,-12.3,-12.35
+Forsythoside_E,Site1,With_Water,0,With water,-12.4,0
+Forsythoside_E,Site1,With_Water,0.087777704,Without water,-12.3,0
+Forsythoside_E,Site1,With_Water,0.1148956,Reapeat with water,-12.4,0
+Forsythoside_E,Site1,With_Water,0.087777704,Repeat without water,-12.3,-12.35
+Forsythoside_E,Site2,With_Water,0,With water,-11.1,0
+Forsythoside_E,Site2,With_Water,0.32571968,Without water,-11,0
+Forsythoside_E,Site2,With_Water,0.13026609,Reapeat with water,-11.1,0
+Forsythoside_E,Site2,With_Water,0.32789183,Repeat without water,-11,-11.05
+Forsythoside_E,Site2,Without_Water,0,With water,-11.1,0
+Forsythoside_E,Site2,Without_Water,0.31114507,Without water,-11,0
+Forsythoside_E,Site2,Without_Water,0.32058236,Reapeat with water,-11.1,0
+Forsythoside_E,Site2,Without_Water,0.06472407,Repeat without water,-11,-11.05
+Forsythoside_E,Site3d,With_Water,0,With water,-3.8,0
+Forsythoside_E,Site3d,With_Water,0.17491636,Without water,-3.8,0
+Forsythoside_E,Site3d,With_Water,0.3972506,Reapeat with water,-4.1,0
+Forsythoside_E,Site3d,With_Water,0.26754114,Repeat without water,-3.9,-3.9
+Forsythoside_E,Site3d,Without_Water,0,With water,-3.6,0
+Forsythoside_E,Site3d,Without_Water,0.24455765,Without water,-3.8,0
+Forsythoside_E,Site3d,Without_Water,0.091134265,Reapeat with water,-3.9,0
+Forsythoside_E,Site3d,Without_Water,0.25796348,Repeat without water,-3.9,-3.8
+Forsythoside_E,Site3m,With_Water,0,With water,-4.5,0
+Forsythoside_E,Site3m,With_Water,0.047088645,Without water,-4.5,0
+Forsythoside_E,Site3m,With_Water,0.057041615,Reapeat with water,-4.5,0
+Forsythoside_E,Site3m,With_Water,0.08020248,Repeat without water,-4.5,-4.5
+Forsythoside_E,Site3m,Without_Water,0.000308816,With water,-4.6,0
+Forsythoside_E,Site3m,Without_Water,0.06252784,Without water,-4.5,0
+Forsythoside_E,Site3m,Without_Water,0.12908775,Reapeat with water,-4.6,0
+Forsythoside_E,Site3m,Without_Water,0.07187394,Repeat without water,-4.2,-4.475
+Hydroxychloroquine,Site1,With_Water,0,With water,-4,0
+Hydroxychloroquine,Site1,With_Water,0.25030613,Without water,-3.9,0
+Hydroxychloroquine,Site1,With_Water,0.20519122,Reapeat with water,-4,0
+Hydroxychloroquine,Site1,With_Water,0.19405271,Repeat without water,-4,-3.975
+Hydroxychloroquine,Site1,Without_Water,0,With water,-4,0
+Hydroxychloroquine,Site1,Without_Water,0.15021051,Without water,-4,0
+Hydroxychloroquine,Site1,Without_Water,0.24085473,Reapeat with water,-4,0
+Hydroxychloroquine,Site1,Without_Water,0.23826912,Repeat without water,-3.8,-3.95
+Hydroxychloroquine,Site2,With_Water,0,With water,-3.6,0
+Hydroxychloroquine,Site2,With_Water,0.15756261,Without water,-3.5,0
+Hydroxychloroquine,Site2,With_Water,0.14639708,Reapeat with water,-3.7,0
+Hydroxychloroquine,Site2,With_Water,0.21372594,Repeat without water,-3.5,-3.575
+Hydroxychloroquine,Site2,Without_Water,0.000135425,With water,-3.6,0
+Hydroxychloroquine,Site2,Without_Water,0.108902134,Without water,-3.8,0
+Hydroxychloroquine,Site2,Without_Water,0.22034156,Reapeat with water,-3.8,0
+Hydroxychloroquine,Site2,Without_Water,0.19645265,Repeat without water,-3.5,-3.675
+Hydroxychloroquine,Site3d,With_Water,0,With water,-7.8,0
+Hydroxychloroquine,Site3d,With_Water,0.20875819,Without water,-7.3,0
+Hydroxychloroquine,Site3d,With_Water,0.22539338,Reapeat with water,-7.8,0
+Hydroxychloroquine,Site3d,With_Water,0.08128944,Repeat without water,-7.3,-7.55
+Hydroxychloroquine,Site3d,Without_Water,0,With water,-7.8,0
+Hydroxychloroquine,Site3d,Without_Water,0.22403033,Without water,-7.3,0
+Hydroxychloroquine,Site3d,Without_Water,0.19407204,Reapeat with water,-7.8,0
+Hydroxychloroquine,Site3d,Without_Water,0.22204371,Repeat without water,-7.3,-7.55
+Hydroxychloroquine,Site3m,With_Water,0.00019152,With water,-7.9,0
+Hydroxychloroquine,Site3m,With_Water,0.23691082,Without water,-7.7,0
+Hydroxychloroquine,Site3m,With_Water,0.23209244,Reapeat with water,-7.9,0
+Hydroxychloroquine,Site3m,With_Water,0.20751224,Repeat without water,-7.7,-7.8
+Hydroxychloroquine,Site3m,Without_Water,0,With water,-7.9,0
+Hydroxychloroquine,Site3m,Without_Water,0.24358252,Without water,-8,0
+Hydroxychloroquine,Site3m,Without_Water,0.15065533,Reapeat with water,-7.9,0
+Hydroxychloroquine,Site3m,Without_Water,0.26388606,Repeat without water,-8,-7.95
+Hypericin,Site1,WW,0.000147222,With water,-7.1,0
+Hypericin,Site1,WW,0.03904113,Without water,-7.1,0
+Hypericin,Site1,WW,0.05685013,Reapeat with water,-7.1,0
+Hypericin,Site1,WW,0.058756284,Repeat without water,-7.1,-7.1
+Hypericin,Site1,WOW,0,With water,-7,0
+Hypericin,Site1,WOW,0.0484612,Without water,-7.1,0
+Hypericin,Site1,WOW,0.047406964,Reapeat with water,-7.1,0
+Hypericin,Site1,WOW,0.042532478,Repeat without water,-7.1,-7.075
+Hypericin,Site2,WW,0,With water,-6.8,0
+Hypericin,Site2,WW,0.050019857,Without water,-6.8,0
+Hypericin,Site2,WW,0.043292128,Reapeat with water,-6.8,0
+Hypericin,Site2,WW,0.049471088,Repeat without water,-6.8,-6.8
+Hypericin,Site2,WOW,0,With water,-6.8,0
+Hypericin,Site2,WOW,0.042765237,Without water,-6.8,0
+Hypericin,Site2,WOW,0.048730593,Reapeat with water,-6.8,0
+Hypericin,Site2,WOW,0.051475424,Repeat without water,-6.8,-6.8
+Hyperoside,Site1,Without_Water,0,With water,-8.7,0
+Hyperoside,Site1,Without_Water,0.056800764,Without water,-6.4,0
+Hyperoside,Site1,Without_Water,0.13623233,Reapeat with water,-8.6,0
+Hyperoside,Site1,Without_Water,0.12773271,Repeat without water,-8.1,-7.95
+Hyperoside,Site2,With_Water,0,With water,-8.7,0
+Hyperoside,Site2,With_Water,0.045145527,Without water,-6.5,0
+Hyperoside,Site2,With_Water,0.05154864,Reapeat with water,-8.5,0
+Hyperoside,Site2,With_Water,0.04566396,Repeat without water,-8.1,-7.95
+Hyperoside,Site2,Without_Water,0,With water,-8.7,0
+Hyperoside,Site2,Without_Water,0.10167432,Without water,-8.7,0
+Hyperoside,Site2,Without_Water,0.09659605,Reapeat with water,-8.9,0
+Hyperoside,Site2,Without_Water,0.10318805,Repeat without water,-8.6,-8.725
+Hyperoside,Site3d,With_Water,0,With water,-8.8,0
+Hyperoside,Site3d,With_Water,0.05093515,Without water,-8.6,0
+Hyperoside,Site3d,With_Water,0.048845273,Reapeat with water,-8.9,0
+Hyperoside,Site3d,With_Water,0.055101063,Repeat without water,-8.6,-8.725
+Hyperoside,Site3d,Without_Water,0,With water,-7.6,0
+Hyperoside,Site3d,Without_Water,0.14619406,Without water,-7.5,0
+Hyperoside,Site3d,Without_Water,0.1445677,Reapeat with water,-7.4,0
+Hyperoside,Site3d,Without_Water,0.14580046,Repeat without water,-7.8,-7.575
+Hyperoside,Site3m,With_Water,0.000152513,With water,-7.9,0
+Hyperoside,Site3m,With_Water,0.054900177,Without water,-7.8,0
+Hyperoside,Site3m,With_Water,0.04015595,Reapeat with water,-7.4,0
+Hyperoside,Site3m,With_Water,0.044558205,Repeat without water,-7.5,-7.65
+Hyperoside,Site3m,Without_Water,0,With water,-7.3,0
+Hyperoside,Site3m,Without_Water,0.054075856,Without water,-6.9,0
+Hyperoside,Site3m,Without_Water,0.06075589,Reapeat with water,-7.2,0
+Hyperoside,Site3m,Without_Water,0.048140403,Repeat without water,-6.9,-7.075
+Ivermectin,Site1,With_Water,0,With water,-7.3,0
+Ivermectin,Site1,With_Water,0.04122044,Without water,-6.9,0
+Ivermectin,Site1,With_Water,0.1744955,Reapeat with water,-7.2,0
+Ivermectin,Site1,With_Water,0.033062305,Repeat without water,-7.2,-7.15
+Ivermectin,Site1,Without_Water,0,With water,-6.2,0
+Ivermectin,Site1,Without_Water,0.16263184,Without water,-5.5,0
+Ivermectin,Site1,Without_Water,0.16363734,Reapeat with water,-5.8,0
+Ivermectin,Site1,Without_Water,0.029407842,Repeat without water,-5.8,-5.825
+Ivermectin,Site2,With_Water,0,With water,-5.7,0
+Ivermectin,Site2,With_Water,0.1710213,Without water,-5.6,0
+Ivermectin,Site2,With_Water,0.03633184,Reapeat with water,-5.3,0
+Ivermectin,Site2,With_Water,0.032360815,Repeat without water,-5.8,-5.6
+Ivermectin,Site2,Without_Water,0.000484511,With water,-6.1,0
+Ivermectin,Site2,Without_Water,0.16714828,Without water,-6.6,0
+Ivermectin,Site2,Without_Water,0.16887613,Reapeat with water,-6.8,0
+Ivermectin,Site2,Without_Water,0.17038286,Repeat without water,-6.3,-6.45
+Ivermectin,Site3d,With_Water,0.000342601,With water,-6.7,0
+Ivermectin,Site3d,With_Water,0.040661387,Without water,-6.5,0
+Ivermectin,Site3d,With_Water,0.046427146,Reapeat with water,-6.6,0
+Ivermectin,Site3d,With_Water,0.04542013,Repeat without water,-6.5,-6.575
+Ivermectin,Site3d,Without_Water,0,With water,-5.9,0
+Ivermectin,Site3d,Without_Water,0.18881407,Without water,-5.7,0
+Ivermectin,Site3d,Without_Water,0.053012423,Reapeat with water,-5.9,0
+Ivermectin,Site3d,Without_Water,0.04549888,Repeat without water,-5.8,-5.825
+Ivermectin,Site3m,With_Water,0.000342601,With water,-5.8,0
+Ivermectin,Site3m,With_Water,0.043666482,Without water,-5.9,0
+Ivermectin,Site3m,With_Water,0.03665188,Reapeat with water,-5.9,0
+Ivermectin,Site3m,With_Water,0.031717878,Repeat without water,-5.8,-5.85
+Ivermectin,Site3m,Without_Water,0,With water,-5.2,0
+Ivermectin,Site3m,Without_Water,0.034449697,Without water,-4.9,0
+Ivermectin,Site3m,Without_Water,0.0370215,Reapeat with water,-5.2,0
+Ivermectin,Site3m,Without_Water,0.054797925,Repeat without water,-4.9,-5.05
+Myricetin,Site1,With_Water,0,With water,-5.4,0
+Myricetin,Site1,With_Water,0.054097418,Without water,-5.5,0
+Myricetin,Site1,With_Water,0.04863073,Reapeat with water,-5.3,0
+Myricetin,Site1,With_Water,0.06141805,Repeat without water,-5.1,-5.325
+Myricetin,Site1,Without_Water,0,With water,-7.8,0
+Myricetin,Site1,Without_Water,0.052646372,Without water,-9.5,0
+Myricetin,Site1,Without_Water,0.059472244,Reapeat with water,-7.8,0
+Myricetin,Site1,Without_Water,0.051577054,Repeat without water,-9.5,-8.65
+Myricetin,Site2,With_Water,0,With water,-7.8,0
+Myricetin,Site2,With_Water,0.0487877,Without water,-9.5,0
+Myricetin,Site2,With_Water,0.06679436,Reapeat with water,-7.9,0
+Myricetin,Site2,With_Water,0.06888627,Repeat without water,-9.5,-8.675
+Myricetin,Site2,Without_Water,0,With water,-10.2,0
+Myricetin,Site2,Without_Water,0.0539757,Without water,-10,0
+Myricetin,Site2,Without_Water,0.052438267,Reapeat with water,-10.3,0
+Myricetin,Site2,Without_Water,0.037793398,Repeat without water,-10,-10.125
+Myricetin,Site3d,With_Water,0.000181343,With water,-10.3,0
+Myricetin,Site3d,With_Water,0.055643085,Without water,-10,0
+Myricetin,Site3d,With_Water,0.04712688,Reapeat with water,-10.3,0
+Myricetin,Site3d,With_Water,0.062610395,Repeat without water,-10,-10.15
+Myricetin,Site3d,Without_Water,0.000181343,With water,-8.9,0
+Myricetin,Site3d,Without_Water,0.06577907,Without water,-8.6,0
+Myricetin,Site3d,Without_Water,0.052425724,Reapeat with water,-8.9,0
+Myricetin,Site3d,Without_Water,0.05426312,Repeat without water,-8.6,-8.75
+Myricetin,Site3m,With_Water,0,With water,-8.9,0
+Myricetin,Site3m,With_Water,0.035893112,Without water,-8.6,0
+Myricetin,Site3m,With_Water,0.0745126,Reapeat with water,-8.9,0
+Myricetin,Site3m,With_Water,0.040899202,Repeat without water,-8.6,-8.75
+Myricetin,Site3m,Without_Water,0,With water,-7.9,0
+Myricetin,Site3m,Without_Water,0.05541152,Without water,-7.9,0
+Myricetin,Site3m,Without_Water,0.06062558,Reapeat with water,-8,0
+Myricetin,Site3m,Without_Water,0.06295531,Repeat without water,-7.9,-7.925
+Nelfinavir,Site1,With_Water,0.000205877,With water,-8,0
+Nelfinavir,Site1,With_Water,0.30672896,Without water,-7.9,0
+Nelfinavir,Site1,With_Water,0.40636098,Reapeat with water,-7.9,0
+Nelfinavir,Site1,With_Water,0.3052939,Repeat without water,-7.9,-7.925
+Nelfinavir,Site1,Without_Water,0,With water,-7.9,0
+Nelfinavir,Site1,Without_Water,0.21896681,Without water,-7.6,0
+Nelfinavir,Site1,Without_Water,0.10095744,Reapeat with water,-7.5,0
+Nelfinavir,Site1,Without_Water,0.21040212,Repeat without water,-7.6,-7.65
+Nelfinavir,Site2,With_Water,0,With water,-7.5,0
+Nelfinavir,Site2,With_Water,0.17397387,Without water,-7.5,0
+Nelfinavir,Site2,With_Water,0.15603174,Reapeat with water,-7.7,0
+Nelfinavir,Site2,With_Water,0.15164421,Repeat without water,-7.5,-7.55
+Nelfinavir,Site2,Without_Water,0,With water,-8.9,0
+Nelfinavir,Site2,Without_Water,0.36554688,Without water,-9.1,0
+Nelfinavir,Site2,Without_Water,0.23812582,Reapeat with water,-8.9,0
+Nelfinavir,Site2,Without_Water,0.18731047,Repeat without water,-8.7,-8.9
+Nelfinavir,Site3d,With_Water,0,With water,-8.9,0
+Nelfinavir,Site3d,With_Water,0.17041232,Without water,-8.7,0
+Nelfinavir,Site3d,With_Water,0.2974147,Reapeat with water,-8.9,0
+Nelfinavir,Site3d,With_Water,0.14438249,Repeat without water,-8.7,-8.8
+Nelfinavir,Site3d,Without_Water,0,With water,-7.3,0
+Nelfinavir,Site3d,Without_Water,0.14265896,Without water,-7,0
+Nelfinavir,Site3d,Without_Water,0.15297124,Reapeat with water,-7.3,0
+Nelfinavir,Site3d,Without_Water,0.15893139,Repeat without water,-7,-7.15
+Nelfinavir,Site3m,With_Water,0,With water,-7.3,0
+Nelfinavir,Site3m,With_Water,0.3305462,Without water,-7,0
+Nelfinavir,Site3m,With_Water,0.26487076,Reapeat with water,-7.3,0
+Nelfinavir,Site3m,With_Water,0.4177914,Repeat without water,-7,-7.15
+Nelfinavir,Site3m,Without_Water,0.000205877,With water,-6.2,0
+Nelfinavir,Site3m,Without_Water,0.015243275,Without water,-6.1,0
+Nelfinavir,Site3m,Without_Water,0.072741196,Reapeat with water,-6.2,0
+Nelfinavir,Site3m,Without_Water,0.29520464,Repeat without water,-6.1,-6.15
+Oroxylin_A,Site1,With_Water,0,With water,-6.2,0
+Oroxylin_A,Site1,With_Water,0.049557853,Without water,-6.1,0
+Oroxylin_A,Site1,With_Water,0.04504539,Reapeat with water,-6.2,0
+Oroxylin_A,Site1,With_Water,0.010435778,Repeat without water,-6.1,-6.15
+Oroxylin_A,Site1,Without_Water,0,With water,-6..6,0
+Oroxylin_A,Site1,Without_Water,0.02495204,Without water,-8.6,0
+Oroxylin_A,Site1,Without_Water,0.039426748,Reapeat with water,-6.4,0
+Oroxylin_A,Site1,Without_Water,0.038046177,Repeat without water,-8.5,-7.833333333
+Oroxylin_A,Site2,With_Water,0.000143986,With water,-6.3,0
+Oroxylin_A,Site2,With_Water,0.10441458,Without water,-8.6,0
+Oroxylin_A,Site2,With_Water,0.10869267,Reapeat with water,-6.7,0
+Oroxylin_A,Site2,With_Water,0.11029697,Repeat without water,-8.7,-7.575
+Oroxylin_A,Site2,Without_Water,0.000143986,With water,-10.3,0
+Oroxylin_A,Site2,Without_Water,0.03361178,Without water,-9.9,0
+Oroxylin_A,Site2,Without_Water,0.10805237,Reapeat with water,-10,0
+Oroxylin_A,Site2,Without_Water,0.10746693,Repeat without water,-10,-10.05
+Oroxylin_A,Site3d,With_Water,0.000249392,With water,-10.1,0
+Oroxylin_A,Site3d,With_Water,0.10947911,Without water,-10.1,0
+Oroxylin_A,Site3d,With_Water,0.10709492,Reapeat with water,-10.3,0
+Oroxylin_A,Site3d,With_Water,0.036395505,Repeat without water,-10.1,-10.15
+Oroxylin_A,Site3d,Without_Water,0.000143986,With water,-8.7,0
+Oroxylin_A,Site3d,Without_Water,0.010259465,Without water,-8.6,0
+Oroxylin_A,Site3d,Without_Water,0.03426813,Reapeat with water,-8.7,0
+Oroxylin_A,Site3d,Without_Water,0.044694234,Repeat without water,-8.5,-8.625
+Oroxylin_A,Site3m,With_Water,0,With water,-8.7,0
+Oroxylin_A,Site3m,With_Water,0.035291918,Without water,-8.5,0
+Oroxylin_A,Site3m,With_Water,0.044366706,Reapeat with water,-8.7,0
+Oroxylin_A,Site3m,With_Water,0.04642101,Repeat without water,-8.5,-8.6
+Oroxylin_A,Site3m,Without_Water,0,With water,-6.7,0
+Oroxylin_A,Site3m,Without_Water,0.032172155,Without water,-6.5,0
+Oroxylin_A,Site3m,Without_Water,0.02537674,Reapeat with water,-6.7,0
+Oroxylin_A,Site3m,Without_Water,0.03884162,Repeat without water,-6.4,-6.575
+Quercitin,Site1,With_Water,0,With water,-6.6,0
+Quercitin,Site1,With_Water,0.055880655,Without water,-6.5,0
+Quercitin,Site1,With_Water,0.052555908,Reapeat with water,-6.6,0
+Quercitin,Site1,With_Water,0.055597395,Repeat without water,-6.6,-6.575
+Quercitin,Site1,Without_Water,0.00018794,With water,-6.5,0
+Quercitin,Site1,Without_Water,0.05959373,Without water,-6.5,0
+Quercitin,Site1,Without_Water,0.05943378,Reapeat with water,-6.5,0
+Quercitin,Site1,Without_Water,0.049526617,Repeat without water,-6.4,-6.475
+Quercitin,Site2,With_Water,0,With water,-7,0
+Quercitin,Site2,With_Water,0.048450872,Without water,-6.5,0
+Quercitin,Site2,With_Water,0.049303602,Reapeat with water,-6.5,0
+Quercitin,Site2,With_Water,0.039709985,Repeat without water,-7.6,-6.9
+Quercitin,Site2,Without_Water,0,With water,-10.2,0
+Quercitin,Site2,Without_Water,0.07043271,Without water,-9.3,0
+Quercitin,Site2,Without_Water,0.052977953,Reapeat with water,-9.1,0
+Quercitin,Site2,Without_Water,0.0657055,Repeat without water,-9.1,-9.425
+Quercitin,Site3d,With_Water,0,With water,-9.4,0
+Quercitin,Site3d,With_Water,0.04474974,Without water,-9,0
+Quercitin,Site3d,With_Water,0.05689914,Reapeat with water,-9.7,0
+Quercitin,Site3d,With_Water,0.054504085,Repeat without water,-9.4,-9.375
+Quercitin,Site3d,Without_Water,0,With water,-8.3,0
+Quercitin,Site3d,Without_Water,0.049192075,Without water,-8,0
+Quercitin,Site3d,Without_Water,0.05837724,Reapeat with water,-8.5,0
+Quercitin,Site3d,Without_Water,0.04300778,Repeat without water,-7.4,-8.05
+Quercitin,Site3m,With_Water,0,With water,-7.6,0
+Quercitin,Site3m,With_Water,0.030831823,Without water,-7.6,0
+Quercitin,Site3m,With_Water,0.06436813,Reapeat with water,-7.6,0
+Quercitin,Site3m,With_Water,0.069118075,Repeat without water,-7.6,-7.6
+Quercitin,Site3m,Without_Water,0.00018794,With water,-6.3,0
+Quercitin,Site3m,Without_Water,0.053970724,Without water,-5.7,0
+Quercitin,Site3m,Without_Water,0.063270345,Reapeat with water,-5.6,0
+Quercitin,Site3m,Without_Water,0.0461471,Repeat without water,-5.6,-5.8
+Remdesivir,Site1,With_Water,0,With water,-5,0
+Remdesivir,Site1,With_Water,0.35341287,Without water,-6.4,0
+Remdesivir,Site1,With_Water,0.5684981,Reapeat with water,-6.4,0
+Remdesivir,Site1,With_Water,0.63674206,Repeat without water,-6.3,-6.025
+Remdesivir,Site1,Without_Water,0,With water,-8.1,0
+Remdesivir,Site1,Without_Water,0.44825947,Without water,-7.5,0
+Remdesivir,Site1,Without_Water,0.6475309,Reapeat with water,-8.1,0
+Remdesivir,Site1,Without_Water,0.6001645,Repeat without water,-7.5,-7.8
+Remdesivir,Site2,With_Water,0,With water,-8.1,0
+Remdesivir,Site2,With_Water,0.14042255,Without water,-7.5,0
+Remdesivir,Site2,With_Water,0.6154713,Reapeat with water,-8.1,0
+Remdesivir,Site2,With_Water,0.6041278,Repeat without water,-7.5,-7.8
+Remdesivir,Site2,Without_Water,0,With water,-8,0
+Remdesivir,Site2,Without_Water,0.15440361,Without water,-7.9,0
+Remdesivir,Site2,Without_Water,0.6271901,Reapeat with water,-8,0
+Remdesivir,Site2,Without_Water,0.58150804,Repeat without water,-7.9,-7.95
+Remdesivir,Site3d,With_Water,0,With water,-8,0
+Remdesivir,Site3d,With_Water,0.16563801,Without water,-7.9,0
+Remdesivir,Site3d,With_Water,0.59902674,Reapeat with water,-8.2,0
+Remdesivir,Site3d,With_Water,0.63600355,Repeat without water,-7.9,-8
+Remdesivir,Site3d,Without_Water,0,With water,-7,0
+Remdesivir,Site3d,Without_Water,0.38871416,Without water,-7,0
+Remdesivir,Site3d,Without_Water,0.625813,Reapeat with water,-7,0
+Remdesivir,Site3d,Without_Water,0.60373306,Repeat without water,-7,-7
+Remdesivir,Site3m,With_Water,0,With water,-7,0
+Remdesivir,Site3m,With_Water,0.12825309,Without water,-7,0
+Remdesivir,Site3m,With_Water,0.5660411,Reapeat with water,-7,0
+Remdesivir,Site3m,With_Water,0.5625082,Repeat without water,-7,-7
+Remdesivir,Site3m,Without_Water,0,With water,-6.6,0
+Remdesivir,Site3m,Without_Water,0.20258765,Without water,-6.5,0
+Remdesivir,Site3m,Without_Water,0.6050017,Reapeat with water,-6.5,0
+Remdesivir,Site3m,Without_Water,0.6156804,Repeat without water,-6.5,-6.525
+Rhein,Site1,With_Water,0,With water,-6.5,0
+Rhein,Site1,With_Water,0.037671886,Without water,-6.5,0
+Rhein,Site1,With_Water,0.033009622,Reapeat with water,-6.5,0
+Rhein,Site1,With_Water,0.024640594,Repeat without water,-6.5,-6.5
+Rhein,Site1,Without_Water,0,With water,-7.3,0
+Rhein,Site1,Without_Water,0.0426671,Without water,-7.7,0
+Rhein,Site1,Without_Water,0.07586752,Reapeat with water,-5.7,0
+Rhein,Site1,Without_Water,0.07464269,Repeat without water,-7.7,-7.1
+Rhein,Site2,With_Water,0,With water,-7.4,0
+Rhein,Site2,With_Water,0.03615805,Without water,-8,0
+Rhein,Site2,With_Water,0.051033948,Reapeat with water,-7.3,0
+Rhein,Site2,With_Water,0.03347983,Repeat without water,-8,-7.675
+Rhein,Site2,Without_Water,0,With water,-9,0
+Rhein,Site2,Without_Water,0.012047617,Without water,-9.5,0
+Rhein,Site2,Without_Water,0.03320094,Reapeat with water,-9.1,0
+Rhein,Site2,Without_Water,0.04780995,Repeat without water,-9.2,-9.2
+Rhein,Site3d,With_Water,0,With water,-9.2,0
+Rhein,Site3d,With_Water,0.024963252,Without water,-9.6,0
+Rhein,Site3d,With_Water,0.040751424,Reapeat with water,-9.5,0
+Rhein,Site3d,With_Water,0.04953965,Repeat without water,-9.4,-9.425
+Rhein,Site3d,Without_Water,0,With water,-7.9,0
+Rhein,Site3d,Without_Water,0.03535472,Without water,-7.8,0
+Rhein,Site3d,Without_Water,0.03543877,Reapeat with water,-7.8,0
+Rhein,Site3d,Without_Water,0.021380873,Repeat without water,-7.8,-7.825
+Rhein,Site3m,With_Water,0,With water,-8.4,0
+Rhein,Site3m,With_Water,0.06389796,Without water,-7.7,0
+Rhein,Site3m,With_Water,0.025485165,Reapeat with water,-7.6,0
+Rhein,Site3m,With_Water,0.035042845,Repeat without water,-7.7,-7.85
+Rhein,Site3m,Without_Water,0,With water,-6.6,0
+Rhein,Site3m,Without_Water,0.04422536,Without water,-6.1,0
+Rhein,Site3m,Without_Water,0.044355955,Reapeat with water,-6.4,0
+Rhein,Site3m,Without_Water,0.03498274,Repeat without water,-6.1,-6.3
+Ritonavir,Site1,With_Water,0,With water,-6.2,0
+Ritonavir,Site1,With_Water,0.44546267,Without water,-6.1,0
+Ritonavir,Site1,With_Water,0.3628293,Reapeat with water,-5.8,0
+Ritonavir,Site1,With_Water,0.3947943,Repeat without water,-6.5,-6.15
+Ritonavir,Site1,Without_Water,0,With water,-6.6,0
+Ritonavir,Site1,Without_Water,0.440771,Without water,-6.7,0
+Ritonavir,Site1,Without_Water,0.42990702,Reapeat with water,-6.5,0
+Ritonavir,Site1,Without_Water,0.24124733,Repeat without water,-6.7,-6.625
+Ritonavir,Site2,With_Water,0,With water,-6.5,0
+Ritonavir,Site2,With_Water,0.45730868,Without water,-6.7,0
+Ritonavir,Site2,With_Water,0.22861947,Reapeat with water,-6.6,0
+Ritonavir,Site2,With_Water,0.2430819,Repeat without water,-6.7,-6.625
+Ritonavir,Site2,Without_Water,0,With water,-7.9,0
+Ritonavir,Site2,Without_Water,0.30521774,Without water,-7.7,0
+Ritonavir,Site2,Without_Water,0.35806108,Reapeat with water,-7.9,0
+Ritonavir,Site2,Without_Water,0.3145926,Repeat without water,-7.7,-7.8
+Ritonavir,Site3d,With_Water,0,With water,-7.9,0
+Ritonavir,Site3d,With_Water,0.43621662,Without water,-7.7,0
+Ritonavir,Site3d,With_Water,0.29744458,Reapeat with water,-7.9,0
+Ritonavir,Site3d,With_Water,0.13363281,Repeat without water,-7.7,-7.8
+Ritonavir,Site3d,Without_Water,0,With water,-7.7,0
+Ritonavir,Site3d,Without_Water,0.17788714,Without water,-7.6,0
+Ritonavir,Site3d,Without_Water,0.44607744,Reapeat with water,-7.7,0
+Ritonavir,Site3d,Without_Water,0.425805,Repeat without water,-7.6,-7.65
+Ritonavir,Site3m,With_Water,0,With water,-7.7,0
+Ritonavir,Site3m,With_Water,0.42047268,Without water,-7.6,0
+Ritonavir,Site3m,With_Water,0.090930894,Reapeat with water,-7.7,0
+Ritonavir,Site3m,With_Water,0.45105127,Repeat without water,-7.6,-7.65
+Ritonavir,Site3m,Without_Water,0.000265787,With water,-7.5,0
+Ritonavir,Site3m,Without_Water,0.1197722,Without water,-7.4,0
+Ritonavir,Site3m,Without_Water,0.11612428,Reapeat with water,-7.5,0
+Ritonavir,Site3m,Without_Water,0.44364956,Repeat without water,-7.4,-7.45
+Rutin,Site1,With_Water,0,With water,-7.5,0
+Rutin,Site1,With_Water,0.40307444,Without water,-7.4,0
+Rutin,Site1,With_Water,0.40176803,Reapeat with water,-7.5,0
+Rutin,Site1,With_Water,0.050967295,Repeat without water,-7.4,-7.45
+Rutin,Site1,Without_Water,0.000189704,With water,-7.9,0
+Rutin,Site1,Without_Water,0.06415483,Without water,-7.4,0
+Rutin,Site1,Without_Water,0.04900873,Reapeat with water,-7.9,0
+Rutin,Site1,Without_Water,0.056284014,Repeat without water,-7.4,-7.65
+Rutin,Site2,With_Water,0,With water,-7.9,0
+Rutin,Site2,With_Water,0.051654283,Without water,-7.4,0
+Rutin,Site2,With_Water,0.39011616,Reapeat with water,-7.9,0
+Rutin,Site2,With_Water,0.052474752,Repeat without water,-7.4,-7.65
+Rutin,Site2,Without_Water,0,With water,-8,0
+Rutin,Site2,Without_Water,0.1974837,Without water,-8,0
+Rutin,Site2,Without_Water,0.06009225,Reapeat with water,-8,0
+Rutin,Site2,Without_Water,0.049347185,Repeat without water,-8,-8
+Rutin,Site3d,With_Water,0,With water,-8,0
+Rutin,Site3d,With_Water,0.04033525,Without water,-8,0
+Rutin,Site3d,With_Water,0.044255204,Reapeat with water,-8,0
+Rutin,Site3d,With_Water,0.12425905,Repeat without water,-8,-8
+Rutin,Site3d,Without_Water,0,With water,-7,0
+Rutin,Site3d,Without_Water,0.051262993,Without water,-6.9,0
+Rutin,Site3d,Without_Water,0.051660553,Reapeat with water,-7,0
+Rutin,Site3d,Without_Water,0.045689203,Repeat without water,-7,-6.975
+Rutin,Site3m,With_Water,0,With water,-7,0
+Rutin,Site3m,With_Water,0.047008395,Without water,-6.9,0
+Rutin,Site3m,With_Water,0.04449566,Reapeat with water,-7,0
+Rutin,Site3m,With_Water,0.049453903,Repeat without water,-6.9,-6.95
+Rutin,Site3m,Without_Water,0,With water,-6.7,0
+Rutin,Site3m,Without_Water,0.057281893,Without water,-6.7,0
+Rutin,Site3m,Without_Water,0.04268557,Reapeat with water,-6.7,0
+Rutin,Site3m,Without_Water,0.056487292,Repeat without water,-6.7,-6.7
+Scutellarein,Site1,Without_Water,0,With water,-6.7,0
+Scutellarein,Site1,Without_Water,0.014192111,Without water,-6.7,0
+Scutellarein,Site1,Without_Water,0.45196313,Reapeat with water,-6.7,0
+Scutellarein,Site1,Without_Water,0.44381878,Repeat without water,-6.6,-6.675
+Scutellarein,Site2,With_Water,0,With water,-7.2,0
+Scutellarein,Site2,With_Water,0.107033834,Without water,-7.6,0
+Scutellarein,Site2,With_Water,0.45039365,Reapeat with water,-7.3,0
+Scutellarein,Site2,With_Water,0.44065776,Repeat without water,-7.3,-7.35
+Scutellarein,Site2,Without_Water,0,With water,-7.3,0
+Scutellarein,Site2,Without_Water,0.10371719,Without water,-7.3,0
+Scutellarein,Site2,Without_Water,0.4572357,Reapeat with water,-7.4,0
+Scutellarein,Site2,Without_Water,0.452876,Repeat without water,-7.2,-7.3
+Scutellarein,Site3d,With_Water,0,With water,-9.1,0
+Scutellarein,Site3d,With_Water,0.10488245,Without water,-9,0
+Scutellarein,Site3d,With_Water,0.4403449,Reapeat with water,-9.4,0
+Scutellarein,Site3d,With_Water,0.43709064,Repeat without water,-9,-9.125
+Scutellarein,Site3d,Without_Water,0,With water,8.9,0
+Scutellarein,Site3d,Without_Water,0.03907861,Without water,-9.1,0
+Scutellarein,Site3d,Without_Water,0.4505637,Reapeat with water,-9.4,0
+Scutellarein,Site3d,Without_Water,0.44744995,Repeat without water,-9.1,-4.675
+Scutellarein,Site3m,With_Water,0,With water,-7.3,0
+Scutellarein,Site3m,With_Water,0.05250202,Without water,-7.9,0
+Scutellarein,Site3m,With_Water,0.453711,Reapeat with water,-7.9,0
+Scutellarein,Site3m,With_Water,0.45177433,Repeat without water,-7.8,-7.725
+Scutellarein,Site3m,Without_Water,0,With water,-7.6,0
+Scutellarein,Site3m,Without_Water,0.051061425,Without water,-7.5,0
+Scutellarein,Site3m,Without_Water,0.44977713,Reapeat with water,-7.2,0
+Scutellarein,Site3m,Without_Water,0.44953224,Repeat without water,-7.8,-7.525
+Scutellarein,Site1,WW,0,With water,-5.8,0
+Scutellarein,Site1,WW,0.44672126,Without water,-6.5,0
+Scutellarein,Site1,WW,0.099263534,Reapeat with water,-5.8,0
+Scutellarein,Site1,WW,0.44160265,Repeat without water,-5.9,-6
+Scutellarein,Site1,WOW,0,With water,-5.7,0
+Scutellarein,Site1,WOW,0.45196313,Without water,-6.4,0
+Scutellarein,Site1,WOW,0.014192111,Reapeat with water,-6.1,0
+Scutellarein,Site1,WOW,0.44381878,Repeat without water,-5.8,-6
+Scutellarein,Site2,WW,0,With water,-7.5,0
+Scutellarein,Site2,WW,0.45039365,Without water,-6.8,0
+Scutellarein,Site2,WW,0.107033834,Reapeat with water,-7.6,0
+Scutellarein,Site2,WW,0.44065776,Repeat without water,-6.8,-7.175
+Scutellarein,Site2,WOW,0,With water,-7.6,0
+Scutellarein,Site2,WOW,0.4572357,Without water,-6.8,0
+Scutellarein,Site2,WOW,0.10371719,Reapeat with water,-7.5,0
+Scutellarein,Site2,WOW,0.452876,Repeat without water,-6.8,-7.175
+Theaflavin_Digallate,Site1,With_Water,0,With water,-8.1,0
+Theaflavin_Digallate,Site1,With_Water,0.05206571,Without water,-8,0
+Theaflavin_Digallate,Site1,With_Water,0.11059155,Reapeat with water,-8.1,0
+Theaflavin_Digallate,Site1,With_Water,0.1088179,Repeat without water,-8,-8.05
+Theaflavin_Digallate,Site1,Without_Water,0,With water,-8.1,0
+Theaflavin_Digallate,Site1,Without_Water,0.053465348,Without water,-8,0
+Theaflavin_Digallate,Site1,Without_Water,0.055505533,Reapeat with water,-8.1,0
+Theaflavin_Digallate,Site1,Without_Water,0.048789438,Repeat without water,-8,-8.05
+Theaflavin_Digallate,Site2,With_Water,0,With water,-7.8,0
+Theaflavin_Digallate,Site2,With_Water,0.03251111,Without water,-7.6,0
+Theaflavin_Digallate,Site2,With_Water,0.024761101,Reapeat with water,-7.8,0
+Theaflavin_Digallate,Site2,With_Water,0.023442853,Repeat without water,-7.6,-7.7
+Theaflavin_Digallate,Site2,Without_Water,0,With water,-7.8,0
+Theaflavin_Digallate,Site2,Without_Water,0.024347153,Without water,-7.6,0
+Theaflavin_Digallate,Site2,Without_Water,0.024778327,Reapeat with water,-7.8,0
+Theaflavin_Digallate,Site2,Without_Water,0.024577986,Repeat without water,-7.6,-7.7
+Theaflavin_Digallate,Site3d,With_Water,0,With water,-6.2,0
+Theaflavin_Digallate,Site3d,With_Water,0.023753397,Without water,-6.2,0
+Theaflavin_Digallate,Site3d,With_Water,0.029902257,Reapeat with water,-6.2,0
+Theaflavin_Digallate,Site3d,With_Water,0.032685872,Repeat without water,-6.2,-6.2
+Theaflavin_Digallate,Site3d,Without_Water,0.000224039,With water,-6.2,0
+Theaflavin_Digallate,Site3d,Without_Water,0.028480258,Without water,-6.2,0
+Theaflavin_Digallate,Site3d,Without_Water,0.0272969,Reapeat with water,-6.2,0
+Theaflavin_Digallate,Site3d,Without_Water,0.02545775,Repeat without water,-6.2,-6.2
+Theaflavin_Digallate,Site3m,With_Water,0,With water,-6.6,0
+Theaflavin_Digallate,Site3m,With_Water,0.022663383,Without water,-6.4,0
+Theaflavin_Digallate,Site3m,With_Water,0.03116556,Reapeat with water,-6,0
+Theaflavin_Digallate,Site3m,With_Water,0.02627852,Repeat without water,-6.8,-6.45
+Theaflavin_Digallate,Site3m,Without_Water,0.000224039,With water,5.9,0
+Theaflavin_Digallate,Site3m,Without_Water,0.026300477,Without water,-7.3,0
+Theaflavin_Digallate,Site3m,Without_Water,0.024236608,Reapeat with water,-6.3,0
+Theaflavin_Digallate,Site3m,Without_Water,0.028680466,Repeat without water,-6,-3.425
+Wogonin,Site1,With_Water,0,With water,-9.6,0
+Wogonin,Site1,With_Water,0.10447532,Without water,-9.1,0
+Wogonin,Site1,With_Water,0.02847108,Reapeat with water,-9.5,0
+Wogonin,Site1,With_Water,0.10447532,Repeat without water,-9.2,-9.35
+Wogonin,Site1,Without_Water,0,With water,-9,0
+Wogonin,Site1,Without_Water,0.106040396,Without water,-9.3,0
+Wogonin,Site1,Without_Water,0.054661904,Reapeat with water,-9.7,0
+Wogonin,Site1,Without_Water,0.111717865,Repeat without water,-9.3,-9.325
+Wogonin,Site2,With_Water,0,With water,-6.8,0
+Wogonin,Site2,With_Water,0.031921145,Without water,-6.7,0
+Wogonin,Site2,With_Water,0.10722087,Reapeat with water,-7.4,0
+Wogonin,Site2,With_Water,0.017394353,Repeat without water,-7.6,-7.125
+Wogonin,Site2,Without_Water,0,With water,-7.1,0
+Wogonin,Site2,Without_Water,0.038802367,Without water,-7.5,0
+Wogonin,Site2,Without_Water,0.10118098,Reapeat with water,-7.1,0
+Wogonin,Site2,Without_Water,0.10330592,Repeat without water,-7,-7.175
+Wogonin,Site3d,With_Water,0,With water,-6.7,0
+Wogonin,Site3d,With_Water,0.019646611,Without water,-6.3,0
+Wogonin,Site3d,With_Water,0.104815684,Reapeat with water,-6.7,0
+Wogonin,Site3d,With_Water,0.111818306,Repeat without water,-6.4,-6.525
+Wogonin,Site3d,Without_Water,0,With water,-6.9,0
+Wogonin,Site3d,Without_Water,0.10816083,Without water,-6.4,0
+Wogonin,Site3d,Without_Water,0.01873593,Reapeat with water,-5.2,0
+Wogonin,Site3d,Without_Water,0.03081542,Repeat without water,-5.5,-6
+Wogonin,Site3m,With_Water,0.000143986,With water,-8.4,0
+Wogonin,Site3m,With_Water,0.035434965,Without water,-9.2,0
+Wogonin,Site3m,With_Water,0.046350613,Reapeat with water,-8.8,0
+Wogonin,Site3m,With_Water,0.015000856,Repeat without water,-9.2,-8.9
+Wogonin,Site3m,Without_Water,0,With water,-8.4,0
+Wogonin,Site3m,Without_Water,0.11099382,Without water,-9.2,0
+Wogonin,Site3m,Without_Water,0.10277131,Reapeat with water,-8.4,0
+Wogonin,Site3m,Without_Water,0.11211799,Repeat without water,-9.2,-8.8
+Wogonoside,Site1,With_Water,0,With water,-9.5,0
+Wogonoside,Site1,With_Water,0.1525344,Without water,-10.8,0
+Wogonoside,Site1,With_Water,0.08717499,Reapeat with water,-10.4,0
+Wogonoside,Site1,With_Water,0.1525344,Repeat without water,-10.8,-10.375
+Wogonoside,Site1,Without_Water,0,With water,-9.5,0
+Wogonoside,Site1,Without_Water,0.101564355,Without water,-10.4,0
+Wogonoside,Site1,Without_Water,0.309284,Reapeat with water,-9.6,0
+Wogonoside,Site1,Without_Water,0.3060808,Repeat without water,-10.8,-10.075
+Wogonoside,Site2,With_Water,0,With water,-9,0
+Wogonoside,Site2,With_Water,0.04142719,Without water,-8.9,0
+Wogonoside,Site2,With_Water,0.035576344,Reapeat with water,-9,0
+Wogonoside,Site2,With_Water,0.045141455,Repeat without water,-8.8,-8.925
+Wogonoside,Site2,Without_Water,0.000224039,With water,-9,0
+Wogonoside,Site2,Without_Water,0.07842894,Without water,-8.9,0
+Wogonoside,Site2,Without_Water,0.10833753,Reapeat with water,-9,0
+Wogonoside,Site2,Without_Water,0.11354723,Repeat without water,-8.8,-8.925
+Wogonoside,Site3d,With_Water,0,With water,-7,0
+Wogonoside,Site3d,With_Water,0.057905257,Without water,-7.3,0
+Wogonoside,Site3d,With_Water,0.07362973,Reapeat with water,-7,0
+Wogonoside,Site3d,With_Water,0.09294424,Repeat without water,-7.3,-7.15
+Wogonoside,Site3m,With_Water,0,With water,-7,0
+Wogonoside,Site3m,With_Water,0.25886154,Without water,-7.3,0
+Wogonoside,Site3m,With_Water,0.039207432,Reapeat with water,-7,0
+Wogonoside,Site3m,With_Water,0.04051728,Repeat without water,-7.3,-7.15
+,,,,With water,-7.5,0
+,,,,Without water,-7.1,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7.1,-7.3
+,,,,With water,-7.5,0
+,,,,Without water,-7.1,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7.1,-7.3
+,,,,With water,-8.2,0
+,,,,Without water,-8.1,0
+,,,,Reapeat with water,-8.2,0
+,,,,Repeat without water,-8.1,-8.15
+,,,,With water,-8.2,0
+,,,,Without water,-8.1,0
+,,,,Reapeat with water,-8.2,0
+,,,,Repeat without water,-8.1,-8.15
+,,,,With water,-7.6,0
+,,,,Without water,-7.4,0
+,,,,Reapeat with water,-7.6,0
+,,,,Repeat without water,-7.4,-7.5
+,,,,With water,-7.6,0
+,,,,Without water,-7.4,0
+,,,,Reapeat with water,-7.6,0
+,,,,Repeat without water,-7.4,-7.5
+,,,,With water,-7.1,0
+,,,,Without water,-7,0
+,,,,Reapeat with water,-7.1,0
+,,,,Repeat without water,-7.1,-7.075
+,,,,With water,-7.1,0
+,,,,Without water,-7,0
+,,,,Reapeat with water,-7.1,0
+,,,,Repeat without water,-7.1,-7.075
+,,,,With water,-7.5,0
+,,,,Without water,-7.1,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7.1,-7.3
+,,,,With water,-7.5,0
+,,,,Without water,-7.1,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7.1,-7.3
+,,,,With water,-14.7,0
+,,,,Without water,-14.5,0
+,,,,Reapeat with water,-14.7,0
+,,,,Repeat without water,-14.5,-14.6
+,,,,With water,-14.7,0
+,,,,Without water,-14.5,0
+,,,,Reapeat with water,-14.7,0
+,,,,Repeat without water,-14.6,-14.625
+,,,,With water,-11.7,0
+,,,,Without water,-11.3,0
+,,,,Reapeat with water,-11.7,0
+,,,,Repeat without water,-11.3,-11.5
+,,,,With water,-11.7,0
+,,,,Without water,-11.3,0
+,,,,Reapeat with water,-11.7,0
+,,,,Repeat without water,-11.3,-11.5
+,,,,With water,-9.9,0
+,,,,Without water,-9.8,0
+,,,,Reapeat with water,-9.9,0
+,,,,Repeat without water,-9.8,-9.85
+,,,,With water,-9.9,0
+,,,,Without water,-9.8,0
+,,,,Reapeat with water,-9.9,0
+,,,,Repeat without water,-9.8,-9.85
+,,,,With water,-7.7,0
+,,,,Without water,-8.8,0
+,,,,Reapeat with water,-7,0
+,,,,Repeat without water,-8.8,-8.075
+,,,,With water,-7.7,0
+,,,,Without water,-8.8,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-8.8,-8.2
+,,,,With water,-10.4,0
+,,,,Without water,-10.3,0
+,,,,Reapeat with water,-11.1,0
+,,,,Repeat without water,-10.3,-10.525
+,,,,With water,-10.5,0
+,,,,Without water,-10.2,0
+,,,,Reapeat with water,-11.3,0
+,,,,Repeat without water,-10.4,-10.6
+,,,,With water,-10.9,0
+,,,,Without water,-10.8,0
+,,,,Reapeat with water,-10.9,0
+,,,,Repeat without water,-10.8,-10.85
+,,,,With water,-10.9,0
+,,,,Without water,-10.8,0
+,,,,Reapeat with water,-10.9,0
+,,,,Repeat without water,-10.8,-10.85
+,,,,With water,-7.6,0
+,,,,Without water,-7.4,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7.5,-7.5
+,,,,With water,-7.5,0
+,,,,Without water,-7.4,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7.4,-7.45
+,,,,With water,-5.7,0
+,,,,With water,-10.9,0
+,,,,With water,-7.6,0
+,,,,With water,-5.6,-7.45
+,,,,Without water,-5.8,0
+,,,,Without water,-9.7,0
+,,,,Without water,-8.4,0
+,,,,Without water,-6.1,-7.5
+,,,,Reapeat with water,-7.2,0
+,,,,Reapeat with water,-10.5,0
+,,,,Reapeat with water,-8.6,0
+,,,,Reapeat with water,-5.5,-7.95
+,,,,Repeat without water,-6.5,0
+,,,,Repeat without water,-10.5,0
+,,,,Repeat without water,-8.5,0
+,,,,Repeat without water,-6.1,-7.9
+,,,,With water,-7,0
+,,,,With water,-10.4,0
+,,,,With water,-8.5,0
+,,,,With water,-5.6,-7.875
+,,,,Without water,-5.8,0
+,,,,Without water,-9.8,0
+,,,,Without water,-8.5,0
+,,,,Without water,-6.8,-7.725
+,,,,Reapeat with water,-7.3,0
+,,,,Reapeat with water,-10.7,0
+,,,,Reapeat with water,-8.5,0
+,,,,Reapeat with water,-5.7,-8.05
+,,,,Repeat without water,-6.5,0
+,,,,Repeat without water,-10.7,0
+,,,,Repeat without water,-8.5,0
+,,,,Repeat without water,-5.9,-7.9
+,,,,With water,-6.7,0
+,,,,Without water,-6.5,0
+,,,,Reapeat with water,-6.7,0
+,,,,Repeat without water,-6.6,-6.625
+,,,,With water,-6.7,0
+,,,,Without water,-6.5,0
+,,,,Reapeat with water,-6.7,0
+,,,,Repeat without water,-6.6,-6.625
+,,,,With water,-7.6,0
+,,,,Without water,-7.5,0
+,,,,Reapeat with water,-7.6,0
+,,,,Repeat without water,-7.5,-7.55
+,,,,With water,-7.6,0
+,,,,Without water,-7.5,0
+,,,,Reapeat with water,-7.6,0
+,,,,Repeat without water,-7.5,-7.55
+,,,,With water,-7,0
+,,,,Without water,-7,0
+,,,,Reapeat with water,-7.1,0
+,,,,Repeat without water,-7,-7.025
+,,,,With water,-7.1,0
+,,,,Without water,-7,0
+,,,,Reapeat with water,-7,0
+,,,,Repeat without water,-7,-7.025
+,,,,With water,-6.4,0
+,,,,Without water,-6.2,0
+,,,,Reapeat with water,-6.4,0
+,,,,Repeat without water,-6.2,-6.3
+,,,,With water,-6.5,0
+,,,,Without water,-6.4,0
+,,,,Reapeat with water,-6.4,0
+,,,,Repeat without water,-6.4,-6.425
+,,,,With water,-7.7,0
+,,,,Without water,-7.6,0
+,,,,Reapeat with water,-7.8,0
+,,,,Repeat without water,-8.4,-7.875
+,,,,With water,-7.6,0
+,,,,Without water,-7.6,0
+,,,,Reapeat with water,-7.8,0
+,,,,Repeat without water,-8.4,-7.85
+,,,,With water,-9.8,0
+,,,,Without water,-9.1,0
+,,,,Reapeat with water,-9.9,0
+,,,,Repeat without water,-9.1,-9.475
+,,,,With water,-9.9,0
+,,,,Without water,-9.1,0
+,,,,Reapeat with water,-9.9,0
+,,,,Repeat without water,-9.1,-9.5
+,,,,With water,-7.7,0
+,,,,Without water,-8,0
+,,,,Reapeat with water,-7.8,0
+,,,,Repeat without water,-8.1,-7.9
+,,,,With water,-7.8,0
+,,,,Without water,-7,0
+,,,,Reapeat with water,-7.8,0
+,,,,Repeat without water,-8.1,-7.675
+,,,,With water,-7.6,0
+,,,,Without water,-7,0
+,,,,Reapeat with water,-7.6,0
+,,,,Repeat without water,-6.8,-7.25
+,,,,With water,-6.8,0
+,,,,Without water,-6.4,0
+,,,,Reapeat with water,-7.5,0
+,,,,Repeat without water,-7,-6.925
+,,,,With water,-6.2,0
+,,,,Without water,-5.6,0
+,,,,Reapeat with water,-6.2,0
+,,,,Repeat without water,-5.7,-5.925
+,,,,With water,-6.2,0
+,,,,Without water,-5.5,0
+,,,,Reapeat with water,-6.3,0
+,,,,Repeat without water,-5.8,-5.95
+,,,,With water,-6.8,0
+,,,,Without water,-6.7,0
+,,,,Reapeat with water,-7.1,0
+,,,,Repeat without water,-6.5,-6.775
+,,,,With water,-7.1,0
+,,,,Without water,-6.6,0
+,,,,Reapeat with water,-7.1,0
+,,,,Repeat without water,-6.6,-6.85
+,,,,With water,-6.4,0
+,,,,Without water,-6.2,0
+,,,,Reapeat with water,-6.3,0
+,,,,Repeat without water,-6,-6.225
+,,,,With water,-6.4,0
+,,,,Without water,-6,0
+,,,,Reapeat with water,-6.4,0
+,,,,Repeat without water,-6,-6.2
+,,,,With water,-5.8,0
+,,,,Without water,-5.6,0
+,,,,Reapeat with water,-5.6,0
+,,,,Repeat without water,-5.6,-5.65
+,,,,With water,-5.8,0
+,,,,Without water,-5.6,0
+,,,,Reapeat with water,-5.8,0
+,,,,Repeat without water,-5.6,-5.7
