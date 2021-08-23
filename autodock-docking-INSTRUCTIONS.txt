@@ -1,0 +1,30 @@
+# Autodock Automation Instruction: 
+
+# Step 1. Make 8 folders for 8 proteins (with/without water) 
+# Step 2. In each folder, create a folder for each ligand, naming it $ligand$ for each $ligand$.pdbqt 
+# Step 3. Set up your docking parameters in the config.txt file. They are different for each site: 
+
+# E.g. for site 1:  
+	# center_x = 6.428 
+	# center_y = 0.502 
+	# center_z = 20.708 
+
+	# size_x = 42 
+	# size_y = 26 
+	# size_z = 28 
+
+	# energy_range = 4 
+	# exhaustiveness = 8 
+	# num_modes = 10 
+ 
+# Reminder: 
+	# Site 1 docking grid: xyz = 6.428, 0.502, 20.708; Size (x*y*z) = 42*26*28 
+	# Site 2 docking grid: xyz = -58.057, -22.175, -1.827; Size (x*y*z) = 40*40*40 
+	# Site 3d docking grid: xyz = -46.656, -6.683, 20.394; Size (x*y*z) = 32*36*32 
+	# Site 3m docking grid: xyz = -46.189, -0.586, 12.875; Size (x*y*z) = 34*24*26 
+
+# Step 4. Put your ligand.pdbqt, protein.pdbqt and config.txt files in each folder with the ligand name. 
+# The docking will not run if any of these is missing.  
+# Step 5. In the terminal within each ligand folder run bash autodock-docking.sh changing path to your own.
+# Step 6: For repeat docking use the same docking parameters, but change the names of your log file and output file 
+# to avoid overwriting.
