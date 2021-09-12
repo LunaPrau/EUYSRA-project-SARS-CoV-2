@@ -1,12 +1,13 @@
 """
-Full script for extracting two variables from .csv files of //this format: //
+Full script for extracting two variables from .csv files 
+(of the format as in the //statistics-format.csv// file found in the main branch of this repository)
 and performing mean unsigned error, root mean square deviation,
 Pearson's linear & Spearman's rank & Kendall's rank correlation coefficients.
 
-Both mean unsigned error and root mean square deviation were alculated using the sklearn.metrics package.
-Pearson's linear & Spearman's rank & Kendall's rank correlation coefficients were calculated using the scipy.stats package.
+Both mean unsigned error and root mean square deviation are calculated using the sklearn.metrics package.
+Pearson's linear & Spearman's rank & Kendall's rank correlation coefficients are calculated using the scipy.stats package.
 
-*!*!*! With reference to:
+*!*!*! Based on the work:
 "Assessment of Binding Affinity via Alchemical Free Energy Calculations"
 Maximilian Kuhn, Stuart Firth-Clark, Paolo Tosco, Antonia S.J.S. Mey, Mark Mackey, Julien Michel.
 Analysis adapted from freenergyframework and a plotting example by Hannah Bruce McDonald:
@@ -16,6 +17,8 @@ https://github.com/choderalab/freeenergyframework/blob/master/freeenergyframewor
 %pylab inline
 import pandas as pd
 import numpy as np
+import seaborn as sns
+import itertools
 import sklearn.metrics
 import scipy.stats
 import copy
@@ -23,7 +26,10 @@ import os
 
 sns.set_context("notebook", font_scale=1.2)
 
-base_dir = ""
+#Set the base directory for your analysis here:
+base_dir = 'C:\\Users\\xxx\\data'
+
+#####################################################################################
 
 def compute_statistic(y_true_sample, y_pred_sample):
     """Compute requested statistic.
@@ -45,6 +51,8 @@ def compute_statistic(y_true_sample, y_pred_sample):
     tau = scipy.stats.kendalltau(y_true_sample, y_pred_sample)[0]
     return RMSE, MUE, r_value, rho, tau
 
+#####################################################################################
+
 def plotting_data(x, y, x_label, y_label, error=None):
     fig = figure(figsize=(6,6))
     omax = -15
@@ -59,6 +67,8 @@ def plotting_data(x, y, x_label, y_label, error=None):
     plt.ylabel(y_label+' $\delta$G [kcal/mol]')
     plt.savefig(base_dir+"-"+x_label+"-"+y_label+".png", facecolor='white', transparent=False, dpi=199, bbox_inches='tight')
 
+#####################################################################################
+	
 def extract_A_B(name_A, name_B, base_dir=base_dir):
     computed_data_name = os.path.join(base_dir,name_A,'dG.csv')
     experi_data_name = os.path.join(base_dir,name_B,'dG.csv')
@@ -87,6 +97,8 @@ def extract_A_B(name_A, name_B, base_dir=base_dir):
         i += 1
     
     return experiment, computed
+	
+#####################################################################################
 	
 # Flare vs. AutoDock
 name_A='Flare'
