@@ -62,9 +62,9 @@ def plotting_data(x, y, x_label, y_label, error=None):
     plt.xticks(np.arange(omax-1, omin+2, 2))
     plt.yticks(np.arange(omax-1, omin+2, 2))
     RMSE, MUE, r_value, rho, tau = compute_statistic(x,y)
-    plt.title(f'RMSE:{RMSE:.2}, MUE:{MUE:.2}, R:{r_value:.2}, rho:{rho:.2}, tau:{tau:.2}')
-    plt.xlabel(x_label+' $\delta$G [kcal/mol]')
-    plt.ylabel(y_label+' $\delta$G [kcal/mol]')
+    plt.title(f'RMSE:{RMSE:.2}, MUE:{MUE:.2}, R:{r_value:.2}, rho:{rho:.2}, tau:{tau:.2}', fontsize=12)
+    plt.xlabel(x_label+' $\Delta$G [kcal/mol]', fontsize=12)
+    plt.ylabel(y_label+' $\Delta$G [kcal/mol]', fontsize=12)
     plt.savefig(base_dir+"-"+x_label+"-"+y_label+".png", facecolor='white', transparent=False, dpi=199, bbox_inches='tight')
 
 #####################################################################################
